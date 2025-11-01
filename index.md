@@ -1,7 +1,3 @@
-SHOPIFY_URL=[store-url].myshopify.com
-SHOPIFY_API_KEY=[store-api-key]
-SHOPIFY_API_PASSWORD=[store-password]
-
 # MyName 포트폴리오
 
 데이터 분석가 / 스토리텔러  
