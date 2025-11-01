@@ -1,3 +1,7 @@
+git add .
+git commit -m "init: apply Jekyll Shopify portfolio template"
+git push origin main
+
 # MyName 포트폴리오
 
 데이터 분석가 / 스토리텔러  
