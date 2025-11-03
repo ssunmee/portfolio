@@ -23,10 +23,9 @@ title: "Portfolio"
 - **2025** 성신여자대학교 디자인과 졸업 예정  
 - **2025** 연세대학교 커뮤니케이션 대학원 입학 예정  
 
-<div style="height:40px"></div>
-<hr style="border:none;border-top:2px solid #ddd;width:80%;margin:auto;">
-<div style="height:40px"></div>
+<div style="height:60px"></div>
 
+---
 
 ## 💼 Experience
 - **2022** 대한민국 패키징 대전 입선  
