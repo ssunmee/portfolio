@@ -8,7 +8,7 @@ title: "Portfolio"
     <h2 style="font-weight:700;margin-bottom:1rem;">새로운 빛을 선물하는 디자이너 유해나입니다.</h2>
     <p>제 이름인 ‘해나’는 <strong>‘해가 난다’</strong>는 뜻입니다.<br>
     매일 뜨는 해는 익숙하지만 꼭 필요한 존재입니다. 규칙적으로 뜨는 해처럼 꾸준히 사람들에게 밝은 빛으로 도움을 줄 수 있는 디자이너가 되고 싶습니다.</p>
-    <p><strong>희망 진로 분야:</strong> UX/UI · 웹 퍼블리싱 · 브랜딩</p>
+    <p><strong>Design Skill</strong> UX/UI · AI Design · Branding</p>
   </div>
 </section>
 
