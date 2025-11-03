@@ -95,7 +95,9 @@ title: "Portfolio"
 
 <div style="display:flex;flex-wrap:wrap;align-items:center;gap:2rem;margin-top:1rem;margin-bottom:3rem;">
   <div style="flex:1;min-width:280px;">
-    <img src="assets/images/project3.jpg" alt="성신여대 졸업전시 웹도록 썸네일" style="width:100%;border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.1);">
+    <img src="114.jpg" alt="성신여대 졸전 썸네일"
+       style="width:100%;max-width:500px;border-radius:12px;
+              box-shadow:0 6px 20px rgba(0,0,0,0.1);margin-top:20px;">
   </div>
   <div style="flex:1;min-width:300px;">
     <p style="color:#555;">성신여자대학교 디자인학과 졸업전시위원회로 참여하여 전시의 아이덴티티와 웹도록을 디자인했습니다.<br>
