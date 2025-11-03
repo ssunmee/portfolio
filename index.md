@@ -12,7 +12,7 @@ title: "Portfolio"
   </div>
 </section>
 
-<div style="height:60px"></div>
+<div style="height:40px"></div>
 
 ## 🎓 Education
 - **2019** 계원예술고등학교 졸업  
@@ -20,10 +20,10 @@ title: "Portfolio"
 - **2025** 성신여자대학교 디자인과 졸업 예정  
 - **2025** 연세대학교 커뮤니케이션 대학원 입학 예정  
 
-<div style="height:60px"></div>
+<div style="height:40px"></div>
 
 ---
-<div style="height:60px"></div>
+<div style="height:40px"></div>
 
 ## 💼 Experience
 - **2022** 대한민국 패키징 대전 입선  
@@ -34,11 +34,11 @@ title: "Portfolio"
 - **2024** 웹 프론트엔드 과정 수강 (CSS, HTML, JAVASCRIPT)  
 - **2024** 성신여대 졸업전시위원회 웹토록 디자인  
 
-<div style="height:60px"></div>
+<div style="height:40px"></div>
 
 ---
 
-<div style="height:60px"></div>
+<div style="height:40px"></div>
 
 ## 🎨 Projects
 
