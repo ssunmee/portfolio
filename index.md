@@ -76,7 +76,9 @@ title: "Portfolio"
 
 <div style="display:flex;flex-wrap:wrap;align-items:center;gap:2rem;margin-top:1rem;margin-bottom:3rem;">
   <div style="flex:1;min-width:280px;">
-    <img src="assets/images/project2.jpg" alt="가자GO 썸네일" style="width:100%;border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.1);">
+    <img src="113.jpg" alt="가자GO 썸네일"
+       style="width:100%;max-width:500px;border-radius:12px;
+              box-shadow:0 6px 20px rgba(0,0,0,0.1);margin-top:20px;">
   </div>
   <div style="flex:1;min-width:300px;">
     <p style="color:#555;">가자GO는 철도교통 문제 상황을 실시간으로 안내하고,대중교통의 대체 이동 경로를 제시하는 서비스입니다.<br>
