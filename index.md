@@ -23,6 +23,7 @@ title: "Portfolio"
 <div style="height:60px"></div>
 
 ---
+<div style="height:60px"></div>
 
 ## 💼 Experience
 - **2022** 대한민국 패키징 대전 입선  
@@ -32,6 +33,8 @@ title: "Portfolio"
 - **2024** 성신여대 영자신문 동아리 ‘Mirror’ 활동  
 - **2024** 웹 프론트엔드 과정 수강 (CSS, HTML, JAVASCRIPT)  
 - **2024** 성신여대 졸업전시위원회 웹토록 디자인  
+
+<div style="height:60px"></div>
 
 ---
 
