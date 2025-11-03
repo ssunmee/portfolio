@@ -15,28 +15,87 @@ title: "Portfolio"
   </div>
 </section>
 
-<section>
-  <h3>Education</h3>
-  <ul>
-    <li><strong>2019</strong> 계원예술고등학교 졸업</li>
-    <li><strong>2021</strong> 성신여자대학교 디자인과 입학</li>
-    <li><strong>2025</strong> 성신여자대학교 디자인과 졸업</li>
-    <li><strong>2025</strong> 연세대학교 커뮤니케이션 대학원 입학</li>
-  </ul>
-</section>
+---
 
-<section>
-  <h3>Experience</h3>
-  <ul>
-    <li><strong>2022</strong> 대한민국 패키징 대전 입선</li>
-    <li><strong>2023</strong> 미리디 인턴 경험</li>
-    <li><strong>2023</strong> 로얄제과 제주도의연인 콘테스트 우승</li>
-    <li><strong>2024</strong> IT 연합동아리 SOPT 34기 수료</li>
-    <li><strong>2024</strong> 성신여대 영자신문 동아리 ‘Mirror’ 활동</li>
-  </ul>
-</section>
+## 🎓 Education
+- **2019** 계원예술고등학교 졸업  
+- **2021** 성신여자대학교 디자인과 입학  
+- **2025** 성신여자대학교 디자인과 졸업 예정  
+- **2025** 연세대학교 커뮤니케이션 대학원 입학 예정  
+
+---
+
+<div style="height:40px"></div>
+<hr style="border:none;border-top:2px solid #ddd;width:80%;margin:auto;">
+<div style="height:40px"></div>
+
+---
+
+## 💼 Experience
+- **2022** 대한민국 패키징 대전 입선  
+- **2023** 미리디 인턴 경험  
+- **2023** 로얄제과 제주도의연인 콘테스트 우승  
+- **2024** IT 연합동아리 SOPT 34기 수료  
+- **2024** 성신여대 영자신문 동아리 ‘Mirror’ 활동  
+- **2024** 웹 프론트엔드 과정 수강 (CSS, HTML, JAVASCRIPT)  
+- **2024** 성신여대 졸업전시위원회 웹토록 디자인  
+
+---
+
+<div style="height:60px"></div>
+
+## 🎨 Projects
+
+### 1️⃣ A PEACE OF  
+**일정관리 및 휴식 추천 서비스 (UX/UI)**  
+- **연도:** 2024  
+- **사용 툴:** Ai · Ps · Figma  
+
+> A PEACE OF는 반복된 일상 속에서 작업과 휴식의 균형을 제안하는 서비스입니다.  
+> 사용자는 라이브 스트리밍을 통해 친구들과 함께 목표를 공유하며,  
+> 자연스럽게 자신에게 맞는 휴식과 일정을 관리할 수 있습니다.
+
+<div style="margin-top:20px;text-align:center;">
+  <img src="assets/images/project1.jpg" alt="A PEACE OF" style="max-width:90%;border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.1);">
+</div>
+
+---
+
+### 2️⃣ 가자GO  
+**철도교통 문제 상황 안내 및 대중교통 대체 방안 제공 서비스 (UX/UI)**  
+- **연도:** 2024  
+- **사용 툴:** Ai · Ps · Figma  
+
+> 가자GO는 철도교통 문제 상황을 실시간으로 안내하고,  
+> 대중교통의 대체 이동 경로를 제시하는 서비스입니다.  
+> 사용자들은 문제 발생 시 실시간 정보를 확인하고,  
+> 빠르게 대응할 수 있는 경로를 선택할 수 있습니다.
+
+<div style="margin-top:20px;text-align:center;">
+  <img src="assets/images/project2.jpg" alt="가자GO" style="max-width:90%;border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.1);">
+</div>
+
+---
+
+### 3️⃣ 성신여대 졸업전시 웹도록 디자인  
+**Graduation Exhibition Web & Visual Design (브랜딩 / 웹디자인)**  
+- **연도:** 2024  
+- **사용 툴:** Ai · Ps · Figma  
+
+> 성신여자대학교 디자인학과 졸업전시위원회와 협업하여  
+> 전시의 시각 아이덴티티와 웹도록을 디자인했습니다.  
+> 웹 기반 디지털 전시 페이지를 제작하여 작품 정보, 작가 노트,  
+> 전시 이미지 등을 한눈에 볼 수 있도록 구성했습니다.  
+>  
+> 오프라인 전시의 감각을 디지털 공간으로 확장하고,  
+> 학과의 정체성과 전시 주제를 시각적으로 연결하는 데 중점을 두었습니다.
+
+<div style="margin-top:20px;text-align:center;">
+  <img src="assets/images/project3.jpg" alt="성신여대 졸업전시 웹도록" style="max-width:90%;border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.1);">
+</div>
+
+---
 
 <footer style="text-align:center;color:#777;padding:2rem 0;">
   © 2025 Haena Ryu — Powered by GitHub Pages & Whiteglass theme.
 </footer>
-
