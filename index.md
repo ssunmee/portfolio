@@ -42,54 +42,71 @@ title: "Portfolio"
 
 ## 🎨 Projects
 
-### 1️⃣ [A PEACE OF → Behance 보러가기 ↗](https://www.behance.net/gallery/215277943/A-PEACE-OF)
-<section style="display:flex;flex-wrap:wrap;align-items:center;gap:2rem;margin-top:1.5rem;margin-bottom:2.5rem;">
+### 1️⃣ A PEACE OF  
+**일정관리 및 휴식 추천 서비스 (UX/UI)**  
+- **연도:** 2024  
+- **사용 툴:** Ai · Ps · Figma  
+
+<div style="display:flex;flex-wrap:wrap;align-items:center;gap:2rem;margin-top:1rem;margin-bottom:3rem;">
+  <div style="flex:1;min-width:280px;">
+    <img src="assets/images/project1.jpg" alt="A PEACE OF 썸네일" style="width:100%;border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.1);">
+  </div>
   <div style="flex:1;min-width:300px;">
-    <h4 style="margin-top:0;">일정관리 및 휴식 추천 서비스 (UX/UI)</h4>
-    <p style="margin:0.5rem 0;color:#555;">A PEACE OF는 반복된 일상 속에서 작업과 휴식의 균형을 제안하는 서비스입니다.<br>
-    사용자는 라이브 스트리밍을 통해 친구들과 함께 목표를 공유하며, 자연스럽게 자신에게 맞는 휴식과 일정을 관리할 수 있습니다.</p>
-    <p style="margin-top:0.8rem;font-size:0.9rem;color:#999;">툴 : Ai · Ps · Figma | 2024</p>
+    <p style="color:#555;">A PEACE OF는 반복된 일상 속에서 작업과 휴식의 균형을 제안하는 서비스입니다.<br>
+    사용자는 라이브 스트리밍을 통해 친구들과 함께 목표를 공유하며,자연스럽게 자신에게 맞는 휴식과 일정을 관리할 수 있습니다.</p>
+    <div style="margin-top:1rem;">
+      <a href="https://www.behance.net/gallery/215277943/A-PEACE-OF" target="_blank" 
+         style="display:inline-block;padding:0.6rem 1.2rem;background:#fbe170;color:#111;border-radius:30px;
+                box-shadow:0 3px 6px rgba(0,0,0,0.08);font-weight:600;font-size:0.9rem;text-decoration:none;
+                transition:all 0.2s ease;">
+        🔗 Behance 보러가기
+      </a>
+    </div>
   </div>
-  <div style="flex:1;min-width:320px;text-align:center;">
-    <a href="https://www.behance.net/gallery/215277943/A-PEACE-OF" target="_blank">
-      <img src="assets/images/project1.jpg" alt="A PEACE OF 썸네일" style="width:100%;max-width:500px;border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.1);transition:0.3s;">
-    </a>
-  </div>
-</section>
+</div>
 
 ---
 
-### 2️⃣ 가자GO
-<section style="display:flex;flex-wrap:wrap;align-items:center;gap:2rem;margin-top:1.5rem;margin-bottom:2.5rem;">
+### 2️⃣ 가자GO  
+**철도교통 문제 상황 안내 및 대중교통 대체 방안 제공 서비스 (UX/UI)**  
+- **연도:** 2024  
+- **사용 툴:** Ai · Ps · Figma  
+
+<div style="display:flex;flex-wrap:wrap;align-items:center;gap:2rem;margin-top:1rem;margin-bottom:3rem;">
+  <div style="flex:1;min-width:280px;">
+    <img src="assets/images/project2.jpg" alt="가자GO 썸네일" style="width:100%;border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.1);">
+  </div>
   <div style="flex:1;min-width:300px;">
-    <h4 style="margin-top:0;">철도교통 문제 상황 안내 및 대중교통 대체 방안 제공 서비스 (UX/UI)</h4>
-    <p style="margin:0.5rem 0;color:#555;">가자GO는 철도교통 문제 상황을 실시간으로 안내하고,<br>
-    대중교통의 대체 이동 경로를 제시하는 서비스입니다.<br>
+    <p style="color:#555;">가자GO는 철도교통 문제 상황을 실시간으로 안내하고,대중교통의 대체 이동 경로를 제시하는 서비스입니다.<br>
     사용자들은 문제 발생 시 실시간 정보를 확인하고 빠르게 대응할 수 있는 경로를 선택할 수 있습니다.</p>
-    <p style="margin-top:0.8rem;font-size:0.9rem;color:#999;">툴 : Ai · Ps · Figma | 2024</p>
   </div>
-  <div style="flex:1;min-width:320px;text-align:center;">
-    <img src="assets/images/project2.jpg" alt="가자GO 썸네일" style="width:100%;max-width:500px;border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.1);">
-  </div>
-</section>
+</div>
 
 ---
 
-### 3️⃣ [성신여대 졸업전시 웹도록 디자인 → 사이트 보러가기 ↗](https://www.sswudesign2024.com/)
-<section style="display:flex;flex-wrap:wrap;align-items:center;gap:2rem;margin-top:1.5rem;margin-bottom:2.5rem;">
+### 3️⃣ 성신여대 졸업전시 웹도록 디자인  
+**Graduation Exhibition Web & Visual Design (브랜딩 / 웹디자인)**  
+- **연도:** 2024  
+- **사용 툴:** Ai · Ps · Figma  
+
+<div style="display:flex;flex-wrap:wrap;align-items:center;gap:2rem;margin-top:1rem;margin-bottom:3rem;">
+  <div style="flex:1;min-width:280px;">
+    <img src="assets/images/project3.jpg" alt="성신여대 졸업전시 웹도록 썸네일" style="width:100%;border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.1);">
+  </div>
   <div style="flex:1;min-width:300px;">
-    <h4 style="margin-top:0;">Graduation Exhibition Web & Visual Design (브랜딩 / 웹디자인)</h4>
-    <p style="margin:0.5rem 0;color:#555;">성신여자대학교 디자인학과 졸업전시위원회로 전시의 아이덴티티와 웹도록을 디자인했습니다.<br>
+    <p style="color:#555;">성신여자대학교 디자인학과 졸업전시위원회로 참여하여 전시의 아이덴티티와 웹도록을 디자인했습니다.<br>
     웹 기반 디지털 전시 페이지를 제작하여 작품 정보, 작가 노트, 전시 이미지를 한눈에 볼 수 있도록 구성했습니다.<br>
-    오프라인 전시의 감각을 디지털 공간으로 확장하고, 학과의 정체성과 전시 주제를 시각적으로 연결하는 데 중점을 두었습니다.</p>
-    <p style="margin-top:0.8rem;font-size:0.9rem;color:#999;">툴 : Ai · Ps · Figma | 2024</p>
+    또한 오프라인 전시의 감각을 디지털 공간으로 확장하고, 학과의 정체성과 전시 주제를 시각적으로 연결하는 것에 중점을 두었습니다.</p>
+    <div style="margin-top:1rem;">
+      <a href="https://www.sswudesign2024.com/" target="_blank" 
+         style="display:inline-block;padding:0.6rem 1.2rem;background:#fbe170;color:#111;border-radius:30px;
+                box-shadow:0 3px 6px rgba(0,0,0,0.08);font-weight:600;font-size:0.9rem;text-decoration:none;
+                transition:all 0.2s ease;">
+        🌐 웹사이트로 이동
+      </a>
+    </div>
   </div>
-  <div style="flex:1;min-width:320px;text-align:center;">
-    <a href="https://www.sswudesign2024.com/" target="_blank">
-      <img src="assets/images/project3.jpg" alt="성신여대 졸업전시 웹도록 썸네일" style="width:100%;max-width:500px;border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.1);transition:0.3s;">
-    </a>
-  </div>
-</section>
+</div>
 
 ---
 
