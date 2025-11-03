@@ -49,7 +49,9 @@ title: "Portfolio"
 
 <div style="display:flex;flex-wrap:wrap;align-items:center;gap:2rem;margin-top:1rem;margin-bottom:3rem;">
   <div style="flex:1;min-width:280px;">
-    <img src="assets/images/project1.jpg" alt="A PEACE OF 썸네일" style="width:100%;border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.1);">
+    <img src="112.jpg" alt="A PEACE OF 썸네일"
+       style="width:100%;max-width:500px;border-radius:12px;
+              box-shadow:0 6px 20px rgba(0,0,0,0.1);margin-top:20px;">
   </div>
   <div style="flex:1;min-width:300px;">
     <p style="color:#555;">A PEACE OF는 반복된 일상 속에서 작업과 휴식의 균형을 제안하는 서비스입니다.<br>
