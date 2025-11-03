@@ -15,7 +15,7 @@ title: "Portfolio"
   </div>
 </section>
 
----
+<div style="height:60px"></div>
 
 ## 🎓 Education
 - **2019** 계원예술고등학교 졸업  
